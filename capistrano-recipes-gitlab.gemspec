@@ -5,7 +5,7 @@ require 'capistrano_recipes_gitlab/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "capistrano_recipes_gitlab"
-  spec.version       = CapistranoRecipes::VERSION
+  spec.version       = CapistranoRecipesGitlab::VERSION
   spec.authors       = ["maverick"]
   spec.email         = ["maverick@ekohe.com"]
   spec.summary       = %q{Provide recipes:generate rake task}
